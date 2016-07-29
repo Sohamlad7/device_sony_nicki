@@ -1,0 +1,12 @@
+[
+  {
+    "repository": "CyanogenMod/android_device_sony_common",
+    "target_path": "device/sony/common",
+    "branch": "cm-13.0"
+  },
+  {
+    "repository": "Sohamlad7/kernel_sony_msm8x27",
+    "target_path": "kernel/sony/msm8x27",
+    "branch": "mm6.0"
+  }
+]
